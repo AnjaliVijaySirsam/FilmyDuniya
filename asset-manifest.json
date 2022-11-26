@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/filmyduniya/static/css/main.334bdeb1.css",
+    "main.js": "/filmyduniya/static/js/main.46644a38.js",
+    "index.html": "/filmyduniya/index.html",
+    "static/media/search.svg": "/filmyduniya/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/filmyduniya/static/css/main.334bdeb1.css.map",
+    "main.46644a38.js.map": "/filmyduniya/static/js/main.46644a38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.46644a38.js"
+  ]
+}
